@@ -2,7 +2,7 @@
 
 ### The Super-smart Investment Advisor
 
-#### with [Akhil](https://github.com/rogueplay), [Durgadas](https://github.com/kamathd) and [Sheldon](https://twitter.com/sheldon_ferns)
+#### with [Akhil](https://github.com/akhil-rane), [Durgadas](https://github.com/kamathd) and [Sheldon](https://twitter.com/sheldon_ferns)
 
 Our (prize winning ;) ) entry to the IBM Bluemix hackathon.
 
